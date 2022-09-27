@@ -1,4 +1,4 @@
-from export_data.export_files import Importer
+from export_data.export_files_v2 import Importer
 import os
 import pandas as pd
 

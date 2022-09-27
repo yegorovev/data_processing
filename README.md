@@ -1,9 +1,9 @@
-# A concatenation of CSV files into a DataSet. Saving DataSet into a file or Database
+# A concatenation of CSV files into a one file.
 ## Output
-- XML
+- XML (to be done)
 - CSV
-- JSON
-- SQLlite3
+- JSON (to be done)
+- SQLlite3 (to be done)
 
 ## Prepare
 ```bash

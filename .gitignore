@@ -1,0 +1,5 @@
+# Default ignored files
+.idea
+.pytest_cashe
+venv
+*/__pycache__
